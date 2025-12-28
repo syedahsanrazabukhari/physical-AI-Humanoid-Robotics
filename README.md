@@ -1,1 +1,1 @@
-# physical-AI-Humanoid-Robotics
+# Physical-AI-Humanoid-Robotics
